@@ -1,0 +1,22 @@
+.linebar {
+    display: flex;
+
+}
+
+.area {
+    display: flex;
+    margin-top: 100;
+}
+
+/* use rem instead of em line 14*/
+.charts {
+    text-align: center;
+    margin-top: -3.3em; 
+    background-color: beige;
+    padding: 10;
+    text-transform: uppercase;
+}
+.complete {
+    background-color: blanchedalmond;
+height: 1100;
+}

@@ -1,0 +1,32 @@
+.home {
+    padding: 1rem; 
+    background-color: #e9e4e4; 
+    color: #333; 
+    font-family: Arial, sans-serif; 
+  margin-top: -3.3em;
+  }
+  
+  .home h1 {
+    text-align: center; 
+    color: #b172a1;
+    margin-bottom: 2rem; 
+  }
+  
+  .box {
+    margin-bottom: 2rem; 
+    padding: 1rem; 
+    background-color: #fff; 
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow for sections */
+  }
+  
+  .box h3 {
+    color: #7999bb; /* Color for section headings */
+    margin-bottom: 1rem; /* Space below section headings */
+  }
+  
+  .box p {
+    line-height: 1.6; /* Space between lines */
+    margin-bottom: 1rem; 
+  }
+  

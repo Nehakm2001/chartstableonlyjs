@@ -1,0 +1,48 @@
+.bold-header {
+  font-weight: bold;
+}
+
+.data-grid-container {
+  background-color: #ddecfa;
+  /* Adjust the color as needed */
+}
+
+.data-grid-container title {
+  color: pink;
+}
+
+.title {
+  text-align: center;
+  background-color: bisque;
+  padding-top: 3;
+  padding-bottom: 3;
+  margin-top: -3.3em;
+
+}
+
+.MuiDataGrid-footerContainer {
+  background-color: #a0e49a;
+}
+
+.MuiDataGrid-selectedRowCount {
+  background-color: #547951;
+  padding: 14;
+  border-radius: 0em;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.MuiTablePagination-displayedRows {
+  background-color: #547951;
+  padding: 14;
+  border-radius: 0em;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.MuiTablePagination-actions {
+  background-color: #547951;
+height: 3.4em;
+}
