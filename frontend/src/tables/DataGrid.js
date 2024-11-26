@@ -111,7 +111,7 @@ export default function SimpleDataGrid() {
 
 
 
-
+//code for adding data from the locally saved mock_data
 
 // import React from 'react';
 // import { DataGrid } from '@mui/x-data-grid';
